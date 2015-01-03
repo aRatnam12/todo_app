@@ -1,1 +1,1 @@
-A todo app that I'm making based on a tutorial so that I can learn node and angular.
+A todo app that I'm making based on a tutorial so that I can learn the MEAN stack.
